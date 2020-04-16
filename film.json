@@ -1,0 +1,911 @@
+[
+  {
+    "name": "Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genre": "Crime / Drama",
+    "country": "USA",
+    "year" : "1994",	
+    "review": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://i.pinimg.com/564x/28/68/90/286890b1eef7ee421f4efadc6faa2fd2.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1972",	
+    "review": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://i.pinimg.com/564x/71/59/a0/7159a09b8fda11639094b27ab40a207c.jpg"
+  },
+{
+    "name": "The Godfather: Part II",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1974",	
+    "review": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "poster": "https://i.pinimg.com/564x/7e/2f/ba/7e2fba01d5f2fb24ccee708992a4faf0.jpg"
+  },
+{
+    "name": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "country": "USA",
+    "year" : "2008",	
+    "review": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "poster": "https://i.pinimg.com/564x/e6/08/b5/e608b54a311d8dfbbfccec3edb185f2a.jpg"
+  },
+{
+    "name": "12 Angry Men",
+    "director": "Sidney Lumet",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "1957",	
+    "review": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+    "poster": "https://i.pinimg.com/564x/66/35/a2/6635a29cea29da12bd0657834ad45060.jpg"
+  },
+{
+    "name": "Schindler's List ",
+    "director": "Steven Spielberg",
+    "genre": "Biography, Drama, History ",
+    "country": "USA",
+    "year" : "1993",	
+    "review": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "poster": "https://i.pinimg.com/236x/bf/77/a2/bf77a2acf2bb895a0498b6dcdc5fdaaf.jpg"
+  },
+{
+    "name": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "genre": "The Lord of the Rings: The Return of the King ",
+    "country": "New Zealand | USA",
+    "year" : "2003",	
+    "review": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "poster": "https://i.pinimg.com/236x/7b/f0/d5/7bf0d576aed31dd24a286c69422b2f75.jpg"
+  },
+{
+    "name": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1994",	
+    "review": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://i.pinimg.com/236x/73/a4/cf/73a4cfadfbf2b169c33e46b395cfb102.jpg"
+  },
+{
+    "name": "Il buono, il brutto, il cattivo",
+    "director": "Sergio Leone",
+    "genre": "Western",
+    "country": "USA",
+    "year" : "1966",	
+    "review": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "poster": "https://i.pinimg.com/236x/6e/e8/01/6ee801fd43cb80d5caac6fd30f65aae4.jpg"
+  },
+{
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "Peter Jackson",
+    "genre": " Action, Adventure, Drama",
+    "country": "New Zealand | USA",
+    "year" : "2001",	
+    "review": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "poster": "https://i.pinimg.com/236x/4d/34/1d/4d341d69282cf4699d16dc69e4d33f02.jpg"
+  },
+{
+    "name": "Fight Club",
+    "director": "David Fincher",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "1999",	
+    "review": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "poster": "https://i.pinimg.com/236x/ee/67/60/ee67603afe35a072104c27ff8f356062.jpg"
+  },
+{
+    "name": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "genre": "Drama,Romance",
+    "country": "USA",
+    "year" : "1994",	
+    "review": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "poster": "https://i.pinimg.com/236x/da/d0/f4/dad0f4901405c9d5be0e487db008fa1a.jpg"
+  },
+{
+    "name": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Action, Adventure, Sci-Fi",
+    "country": "USA",
+    "year" : "2010",	
+    "review": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "poster": "https://i.pinimg.com/236x/42/1d/0b/421d0b2dbeb86a52c326da457b5eca3e.jpg"
+  },
+{
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "director": "Irvin Kershner",
+    "genre": "Action, Adventure, Fantasy",
+    "country": "USA",
+    "year" : "1980",	
+    "review": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+    "poster": "https://i.pinimg.com/236x/e2/22/58/e2225891b94eb6890f749181068a559f.jpg"
+  },
+{
+    "name": "The Lord of the Rings: The Two Towers",
+    "director": "Peter Jackson",
+    "genre": "Adventure, Drama, Fantasy ",
+    "country": "New Zealand | USA",
+    "year" : "2002",	
+    "review": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "poster": "https://i.pinimg.com/236x/a5/61/61/a56161436c79c26ff328f8453d7b2c6c.jpg"
+  },
+{
+    "name": "The Matrix",
+    "director": " Lana Wachowski and Lilly Wachowski",
+    "genre": "Action, Sci-Fi ",
+    "country": "USA",
+    "year" : "1999",	
+    "review": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://i.pinimg.com/236x/d4/71/30/d47130a9a0b6a147d35e732d28486733.jpg"
+  },
+{
+    "name": "Goodfellas",
+    "director": "Martin Scorsese",
+    "genre": "Biography, Crime, Drama",
+    "country": "USA",
+    "year" : "1990",	
+    "review": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "poster": "https://i.pinimg.com/236x/6d/91/58/6d91585c567a2f81d97dd8555d243392.jpg"
+  },
+{
+    "name": "One Flew Over the Cuckoo's Nest",
+    "director": "Milos Forman",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "1975",	
+    "review": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+    "poster": "https://i.pinimg.com/236x/bf/8c/25/bf8c253bf20f444300ef14e38e22edb7.jpg"
+  },
+{
+    "name": "Shichinin no samurai",
+    "director": "Akira Kurosawa",
+    "genre": "Action, Adventure, Drama",
+    "country": "Japan",
+    "year" : "1954",	
+    "review": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "poster": "https://i.pinimg.com/236x/65/6d/72/656d7283cf1404bb036b001d63e5e24c.jpg"
+  },
+{
+    "name": "Se7en",
+    "director": "David Fincher",
+    "genre": "Crime, Drama, Mystery",
+    "country": "USA",
+    "year" : "1995",	
+    "review": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "poster": "https://i.pinimg.com/236x/07/1d/68/071d6870eeb59ab183055a70138f556f.jpg"
+  },
+{
+    "name": "Cidade de Deus",
+    "director": "Fernando Meirelles",
+    "genre": "Crime, Drama ",
+    "country": "Brazil | France | Germany",
+    "year" : "2002",	
+    "review": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "poster": "https://i.pinimg.com/236x/66/99/5c/66995c2992d484f22ffa731d35d9ac80.jpg"
+  },
+{
+    "name": "La vita è bella",
+    "director": "Roberto Benigni",
+    "genre": "Comedy, Drama, Romance",
+    "country": "Italy",
+    "year" : "1997",	
+    "review": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "poster": "https://i.pinimg.com/236x/89/98/4f/89984f9535b48016854dab9ef48c6405.jpg"
+  },
+{
+    "name": "The Silence of the Lambs",
+    "director": "Jonathan Demme",
+    "genre": "Crime, Drama, Thriller ",
+    "country": "USA",
+    "year" : "1991",	
+    "review": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "poster": "https://i.pinimg.com/236x/c8/86/ba/c886ba1dac444ca5fcacbe0c9dbe3ec8.jpg"
+  },
+{
+    "name": "It's a Wonderful Life",
+    "director": "Frank Capra",
+    "genre": "Drama, Family, Fantasy ",
+    "country": "USA",
+    "year" : "1946",	
+    "review": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "poster": "https://i.pinimg.com/236x/0a/69/e0/0a69e08d61999828ba2dada6808668d2.jpg"
+  },
+{
+    "name": "Star Wars",
+    "director": "George Lucas",
+    "genre": "Action, Adventure, Fantasy",
+    "country": "USA",
+    "year" : "1977",	
+    "review": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "poster": "https://i.pinimg.com/236x/01/00/52/010052ccaba2aa9223a610517a85036c.jpg"
+  },
+{
+    "name": "Gisaengchung",
+    "director": "Bong Joon Ho",
+    "genre": "Comedy, Drama, Thriller ",
+    "country": "South Korea",
+    "year" : "2019",	
+    "review": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+    "poster": "https://i.pinimg.com/236x/22/94/df/2294dfc4473653eb68f7e5d8e0824517.jpg"
+  },
+{
+    "name": "Saving Private Ryan",
+    "director": "Steven Spielberg",
+    "genre": "Drama, War",
+    "country": "USA",
+    "year" : "1998",	
+    "review": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "poster": "https://i.pinimg.com/236x/ed/ff/2d/edff2d31f08cb8100d9052394191ff4a.jpg"
+  },
+{
+    "name": "Sen to Chihiro no kamikakushi",
+    "director": "Hayao Miyazaki",
+    "genre": "Animation, Adventure, Family ",
+    "country": "Japan",
+    "year" : "2001",	
+    "review": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "poster": "https://i.pinimg.com/236x/00/ed/42/00ed42db7717c4565def06bc5f42dd91.jpg"
+  },
+{
+    "name": "The Green Mile",
+    "director": "Frank Darabont",
+    "genre": "Crime, Drama, Fantasy ",
+    "country": "USA",
+    "year" : "1999",	
+    "review": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "poster": "https://i.pinimg.com/236x/50/97/6f/50976f501b4e30cd1bc9c76c0dbbddee.jpg"
+  },
+{
+    "name": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Adventure, Drama, Sci-Fi ",
+    "country": "USA",
+    "year" : "2014",	
+    "review": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://i.pinimg.com/236x/da/dd/49/dadd49f1c4ab7669d9c6ed64f4ddeea3.jpg"
+  },
+{
+    "name": "Léon",
+    "director": "Luc Besson",
+    "genre": "Action, Crime, Drama ",
+    "country": "France | USA",
+    "year" : "1994",	
+    "review": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "poster": "https://i.pinimg.com/236x/ef/4a/89/ef4a897443665dc358bfbb3c7a8485e9.jpg"
+  },
+{
+    "name": "The Usual Suspects",
+    "director": "Bryan Singer",
+    "genre": "Crime, Mystery, Thriller ",
+    "country": "USA",
+    "year" : "1995",	
+    "review": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "poster": "https://i.pinimg.com/236x/ba/bf/83/babf835d57edaaeb19baffdd755bb2d4.jpg"
+  },
+{
+    "name": "The Lion King",
+    "director": "Roger Allers",
+    "genre": "Animation, Adventure, Drama",
+    "country": "USA",
+    "year" : "1994",	
+    "review": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+    "poster": "https://i.pinimg.com/236x/3f/8c/f7/3f8cf7f4d83d58efd03bbc328d80916d.jpg"
+  },
+{
+    "name": "American History X",
+    "director": "Tony Kaye",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "1998",	
+    "review": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "poster": "https://i.pinimg.com/236x/65/6b/97/656b9750dfe4b58948a75557f62648fb.jpg"
+  },
+{
+    "name": "The Pianist",
+    "director": "Roman Polanski",
+    "genre": "Biography, Drama, Music ",
+    "country": "UK | France | Poland | Germany",
+    "year" : "2002",	
+    "review": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "poster": "https://i.pinimg.com/236x/43/81/23/438123ee4b395259e1d7397395cb7d1e.jpg"
+  },
+{
+    "name": "Terminator 2: Judgment Day",
+    "director": "James Cameron",
+    "genre": " Action, Sci-Fi ",
+    "country": "USA",
+    "year" : "1991",	
+    "review": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "poster": "https://i.pinimg.com/236x/ca/3b/c9/ca3bc945e57c001b69f490f3e0a4502f.jpg"
+  },
+{
+    "name": "Back to the Future",
+    "director": "Robert Zemeckis",
+    "genre": "Adventure, Comedy, Sci-Fi ",
+    "country": "USA",
+    "year" : "1985",	
+    "review": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "poster": "https://i.pinimg.com/236x/07/3f/63/073f63f9433cede1fde4fe548e595c25.jpg"
+  },
+{
+    "name": "Modern Times",
+    "director": " Charles Chaplin",
+    "genre": "Comedy, Drama, Family ",
+    "country": "USA",
+    "year" : "1936",	
+    "review": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "poster": "https://i.pinimg.com/236x/aa/1d/d2/aa1dd23dfa77ee216a271fb1fc452470.jpg"
+  },
+{
+    "name": "Psycho",
+    "director": "Alfred Hitchcock",
+    "genre": "Horror, Mystery, Thriller",
+    "country": "USA",
+    "year" : "1960",	
+    "review": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "poster": "https://i.pinimg.com/236x/76/57/f4/7657f4a8e2d55fe7bfa6c5bd187c597e.jpg"
+  },
+{
+    "name": "Gladiator",
+    "director": "Ridley Scott",
+    "genre": "Action, Adventure, Drama ",
+    "country": "USA | UK | Malta | Morocco",
+    "year" : "200",	
+    "review": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "poster": "https://i.pinimg.com/236x/bd/d9/17/bdd917bad81732589e0bb19c05a930bd.jpg"
+  },
+{
+    "name": "City Lights",
+    "director": "Charles Chaplin",
+    "genre": "Comedy, Drama, Romance",
+    "country": "USA",
+    "year" : "1931",	
+    "review": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "poster": "https://i.pinimg.com/236x/20/53/01/2053013949ffac9278f0c3c828cba08c.jpg"
+  },
+{
+    "name": "The Intouchables",
+    "director": "Olivier Nakache",
+    "genre": "Biography, Comedy, Drama",
+    "country": "France",
+    "year" : "2011",	
+    "review": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "poster": "https://i.pinimg.com/236x/03/0b/22/030b226bcca2d546330b1b49d0619cff.jpg"
+  },
+{
+    "name": "The Departed",
+    "director": "Martin Scorsese",
+    "genre": "Crime, Drama, Thriller",
+    "country": "USA",
+    "year" : "2006",	
+    "review": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "poster": "https://i.pinimg.com/236x/c6/8e/ac/c68eacf34958dab67ad93af2083076c6.jpg"
+  },
+{
+    "name": "Whiplash",
+    "director": "Damien Chazelle",
+    "genre": "Drama, Music",
+    "country": "USA",
+    "year" : "2014",	
+    "review": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "poster": "https://i.pinimg.com/236x/29/75/ae/2975aeb8427fe5d0483341ee85a6b002.jpg"
+  },
+{
+    "name": "The Prestige",
+    "director": "Christopher Nolan",
+    "genre": "Drama, Mystery, Sci-Fi ",
+    "country": "USA | UK",
+    "year" : "2006",	
+    "review": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "poster": "https://i.pinimg.com/236x/43/68/55/436855b17b6a5b39d3eefa8b1203609f.jpg"
+  },
+{
+    "name": "Once Upon a Time in the West",
+    "director": "Sergio Leone",
+    "genre": "Western",
+    "country": "USA",
+    "year" : "1968",	
+    "review": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "poster": "https://i.pinimg.com/236x/9f/31/56/9f3156dcef7278e326469f133652a0f7.jpg"
+  },
+{
+    "name": "Casablanca",
+    "director": "Michael Curtiz",
+    "genre": "Drama, Romance, War",
+    "country": "USA",
+    "year" : "1942",	
+    "review": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.",
+    "poster": "https://i.pinimg.com/236x/d3/05/3d/d3053d6e10ed5b9b250b5d093d8f6e57.jpg"
+  },
+{
+    "name": "Joker",
+    "director": "Todd Phillips",
+    "genre": "Crime, Drama, Thriller ",
+    "country": "USA",
+    "year" : "2019",	
+    "review": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "poster": "https://i.pinimg.com/236x/99/7a/ff/997aff6f60041e2d8dd3c367d6bcb61c.jpg"
+  },
+{
+    "name": "Rear Window",
+    "director": "Alfred Hitchcock",
+    "genre": "Mystery, Thriller",
+    "country": "USA",
+    "year" : "1954",	
+    "review": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "poster": "https://i.pinimg.com/236x/e5/3b/e6/e53be634904d6f648b2abdbfb8f42a34.jpg"
+  },
+{
+    "name": "Nuovo Cinema Paradiso",
+    "director": "Giuseppe Tornatore",
+    "genre": "Drama",
+    "country": "Italy | France",
+    "year" : "1988",	
+    "review": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "poster": "https://i.pinimg.com/236x/14/5b/b0/145bb03f279ff30f9fa7e1d6d433f83f.jpg"
+  },
+{
+    "name": "Alien",
+    "director": "Ridley Scott",
+    "genre": "Horror, Sci-Fi",
+    "country": "USA",
+    "year" : "1979",	
+    "review": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+    "poster": "https://i.pinimg.com/236x/ad/bf/c0/adbfc03ec6fc9fd050dc724a196e22f5.jpg"
+  },
+{
+    "name": "Apocalypse Now",
+    "director": "Francis Ford Coppola",
+    "genre": "Drama, Mystery, War",
+    "country": "USA",
+    "year" : "1979",	
+    "review": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "poster": "https://i.pinimg.com/236x/a8/8b/67/a88b673b89a5bf0e51da1e2fe46b1647.jpg"
+  },
+{
+    "name": "Raiders of the Lost Ark",
+    "director": "Steven Spielberg",
+    "genre": "Action, Adventure ",
+    "country": "USA",
+    "year" : "1981",	
+    "review": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "poster": "https://i.pinimg.com/236x/7b/c2/da/7bc2dac97065e48282c7b8383ce60cc8.jpg"
+  },
+{
+    "name": "Memento",
+    "director": "Christopher Nolan",
+    "genre": "Mystery, Thriller",
+    "country": "USA",
+    "year" : "2000",	
+    "review": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "poster": "https://i.pinimg.com/236x/5d/3b/e2/5d3be2100377f2f881080d7d20981c96.jpg"
+  },
+{
+    "name": "The Great Dictator",
+    "director": "Charles Chaplin",
+    "genre": "Comedy, Drama, War ",
+    "country": "USA",
+    "year" : "1940",	
+    "review": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "poster": "https://i.pinimg.com/236x/26/7c/6f/267c6faf901cbdb6f8ba8d18551c80e0.jpg"
+  },
+{
+    "name": "The Lives of Others",
+    "director": "Florian Henckel von Donnersmarck",
+    "genre": "Drama, Mystery, Thriller",
+    "country": "Germany",
+    "year" : "2006",	
+    "review": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "poster": "https://i.pinimg.com/236x/1c/16/3a/1c163acb76393aabad2c6d13537b80f9.jpg"
+  },
+{
+    "name": "Django Unchained",
+    "director": "Quentin Tarantino",
+    "genre": "Drama, Western ",
+    "country": "USA",
+    "year" : "2012",	
+    "review": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "poster": "https://i.pinimg.com/236x/3a/1d/39/3a1d396a872e60fa17836b96be5836e8.jpg"
+  },
+{
+    "name": "Paths of Glory",
+    "director": "Stanley Kubrick",
+    "genre": "Drama, War ",
+    "country": "USA",
+    "year" : "1957",	
+    "review": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "poster": "https://i.pinimg.com/236x/62/ba/f2/62baf2455d5cfb385ee9a69963119c66.jpg"
+  },
+{
+    "name": "The Shining",
+    "director": "Stanley Kubrick",
+    "genre": "Drama, Horror",
+    "country": "USA",
+    "year" : "1980",	
+    "review": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "poster": "https://i.pinimg.com/236x/ac/91/af/ac91afc2e2858cafc110cdbd43dde3a2.jpg"
+  },
+{
+    "name": "WALL·E",
+    "director": "Andrew Stanton",
+    "genre": "Animation, Adventure, Family ",
+    "country": "USA",
+    "year" : "2008",	
+    "review": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "poster": "https://i.pinimg.com/236x/a5/35/f7/a535f73905f5127f87fb7bd558e4be87.jpg"
+  },
+{
+    "name": "Det sjunde inseglet ",
+    "director": "Ingmar Bergman",
+    "genre": "Drama, Fantasy ",
+    "country": "Drama | Fantasy",
+    "year" : "1957",	
+    "review": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "poster": "https://i.pinimg.com/236x/5f/05/7e/5f057e15a3596d9982d515a197813e92.jpg"
+  },
+{
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "director": "Stanley Kubrick",
+    "genre": "Comedy",
+    "country": "UK",
+    "year" : "1964",	
+    "review": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+    "poster": "https://i.pinimg.com/236x/43/e7/69/43e769766e05fb1b700b712089f17a6a.jpg"
+  },
+{
+    "name": "Oldeuboi",
+    "director": "Chan-wook Park",
+    "genre": "Action, Drama, Mystery ",
+    "country": "South Korea",
+    "year" : "2003",	
+    "review": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "poster": "https://i.pinimg.com/236x/f0/cd/db/f0cddb397d73979f09921485227b5879.jpg"
+  },
+{
+    "name": "Witness for the Prosecution",
+    "director": "Billy Wilder",
+    "genre": "Crime, Drama, Film-Noir",
+    "country": "USA",
+    "year" : "1957",	
+    "review": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "poster": "https://i.pinimg.com/236x/c4/2c/a4/c42ca4983a2ca1cf09c5d70d00c9b4ee.jpg"
+  },
+{
+    "name": "V for Vendetta",
+    "director": "James McTeigue",
+    "genre": "Action, Drama, Sci-Fi",
+    "country": "USA | UK | Germany",
+    "year" : "2005",	
+    "review": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.",
+    "poster": "https://i.pinimg.com/236x/85/70/0c/85700c2abd48b78ce009cfb8b14b6697.jpg"
+  },
+{
+    "name": "Once Upon a Time in America",
+    "director": "Sergio Leone",
+    "genre": "Crime, Drama ",
+    "country": "USA",
+    "year" : "1984",	
+    "review": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+    "poster": "https://i.pinimg.com/236x/18/e3/93/18e393ad4873f198fcd32c984176b580.jpg"
+  },
+{
+    "name": "Aliens",
+    "director": "James Cameron",
+    "genre": "Action, Adventure, Sci-Fi",
+    "country": "USA",
+    "year" : "1986",	
+    "review": "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?",
+    "poster": "https://i.pinimg.com/236x/13/e7/67/13e767d660631fcbb20d5588496894f3.jpg"
+  },
+{
+    "name": "American Beauty",
+    "director": "Sam Mendes",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "1999",	
+    "review": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "poster": "https://i.pinimg.com/236x/77/33/38/773338ebc171186e182565bc825cdadc.jpg"
+  },
+{
+    "name": "Braveheart",
+    "director": "Mel Gibson",
+    "genre": "Biography, Drama, History",
+    "country": "USA",
+    "year" : "1995",	
+    "review": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+    "poster": "https://i.pinimg.com/236x/af/ab/d2/afabd27feb835d1523c5cb5a0082d13e.jpg"
+  },
+{
+    "name": "Das Boot",
+    "director": "Wolfgang Petersen",
+    "genre": "Adventure, Drama, Thriller",
+    "country": "Germany",
+    "year" : "1981",	
+    "review": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "poster": "https://i.pinimg.com/236x/43/3e/0f/433e0fbbb4fe9e4ea8e01b45da4d6b47.jpg"
+  },
+{
+    "name": "Amadeus",
+    "director": "Milos Forman",
+    "genre": "Biography, Drama, History",
+    "country": "USA | France | Czechoslovakia | Italy",
+    "year" : "1984",	
+    "review": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+    "poster": "https://i.pinimg.com/236x/31/0b/5e/310b5e7ab336b15d9444e7ead590f903.jpg"
+  },
+{
+    "name": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "genre": "Crime, Drama, Thriller",
+    "country": "USA",
+    "year" : "1992",	
+    "review": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "poster": "https://i.pinimg.com/236x/3a/9f/e8/3a9fe8912392ffe2d176d5fefc86d941.jpg"
+  },
+{
+    "name": "Inglourious Basterds",
+    "director": "Quentin Tarantino",
+    "genre": "Adventure, Drama, War",
+    "country": "USA",
+    "year" : "2009",	
+    "review": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "poster": "https://i.pinimg.com/236x/24/3d/db/243ddb13e5e957322802da2a5754ca71.jpg"
+  },
+{
+    "name": "Good Will Hunting",
+    "director": "Gus Van Sant",
+    "genre": "Drama, Romance ",
+    "country": "USA",
+    "year" : "1997",	
+    "review": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "poster": "https://i.pinimg.com/236x/ee/df/91/eedf911ef0ca9f46642b368e59c7fff4.jpg"
+  },
+{
+    "name": "2001: A Space Odyssey",
+    "director": "Stanley Kubrick",
+    "genre": "Adventure, Sci-Fi ",
+    "country": "USA",
+    "year" : "1968",	
+    "review": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+    "poster": "https://i.pinimg.com/236x/6d/30/ef/6d30efe238a0477764b36d33e8520b1d.jpg"
+  },
+{
+    "name": "Requiem for a Dream",
+    "director": "Darren Aronofsky",
+    "genre": "Drama",
+    "country": "USA",
+    "year" : "2000",	
+    "review": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "poster": "https://i.pinimg.com/236x/22/c9/86/22c9866d9abfed4bd9d4bb9793eda684.jpg"
+  },
+{
+    "name": "Vertigo",
+    "director": "Alfred Hitchcock",
+    "genre": "Mystery, Romance, Thriller",
+    "country": "USA",
+    "year" : "1958",	
+    "review": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+    "poster": "https://i.pinimg.com/236x/77/ef/2f/77ef2f9cd4252fddcdf8b724f2d021d4.jpg"
+  },
+{
+    "name": "M - Eine Stadt sucht einen Mörder",
+    "director": "Fritz Lang",
+    "genre": "Crime, Mystery, Thriller ",
+    "country": "Germany",
+    "year" : "1931",	
+    "review": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "poster": "https://i.pinimg.com/236x/86/fb/f7/86fbf7229e55aad4a396b7eefeb54f40.jpg"
+  },
+{
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "director": "Michel Gondry",
+    "genre": "Drama, Romance, Sci-Fi",
+    "country": "USA",
+    "year" : "2004",	
+    "review": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "poster": "https://i.pinimg.com/236x/e0/24/5d/e0245d23bf3a650c7173483faaba5f93.jpg"
+  },
+{
+    "name": "Citizen Kane",
+    "director": "Orson Welles",
+    "genre": "Drama, Mystery",
+    "country": "USA",
+    "year" : "1941",	
+    "review": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+    "poster": "https://i.pinimg.com/236x/f9/f0/2e/f9f02e1b9513792a64a7c8c17a107129.jpg"
+  },
+{
+    "name": "Jagten",
+    "director": "Thomas Vinterberg",
+    "genre": "Drama",
+    "country": "Germany",
+    "year" : "2012",	
+    "review": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "poster": "https://i.pinimg.com/236x/bd/cc/47/bdcc47f2f8e5d79bda17eaad4770332e.jpg"
+  },
+{
+    "name": "Full Metal Jacket",
+    "director": "Stanley Kubrick",
+    "genre": "Drama, War",
+    "country": "USA",
+    "year" : "1987",	
+    "review": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "poster": "https://i.pinimg.com/236x/dc/04/f7/dc04f72e5cd4d1919ed9b3d97f5e8cf7.jpg"
+  },
+{
+    "name": "North by Northwest",
+    "director": "Alfred Hitchcock",
+    "genre": "Adventure, Mystery, Thriller ",
+    "country": "USA",
+    "year" : "1959",	
+    "review": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+    "poster": "https://i.pinimg.com/236x/5f/e9/4d/5fe94d919d163767a719c2448dd0705d.jpg"
+  },
+{
+    "name": "A Clockwork Orange",
+    "director": "Stanley Kubrick",
+    "genre": "Crime, Drama, Sci-Fi ",
+    "country": "USA",
+    "year" : "1971",	
+    "review": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "poster": "https://i.pinimg.com/236x/b5/4a/05/b54a0527edeefcda37a42c71d15c8762.jpg"
+  },
+{
+    "name": "Snatch",
+    "director": "Guy Ritchie",
+    "genre": "Comedy, Crime ",
+    "country": "UK | USA",
+    "year" : "2000",	
+    "review": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "poster": "https://i.pinimg.com/236x/2d/13/c5/2d13c51488cb4f6db4a16f393086c0a2.jpg"
+  },
+{
+    "name": "The Kid",
+    "director": "Charles Chaplin",
+    "genre": "Comedy, Drama, Family ",
+    "country": "USA",
+    "year" : "1921",	
+    "review": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+    "poster": "https://i.pinimg.com/236x/7e/07/c2/7e07c2eeccdbfe7506f6bdc34428630a.jpg"
+  },
+{
+    "name": "Ladri di biciclette",
+    "director": "Vittorio De Sica",
+    "genre": "Drama",
+    "country": "Italy",
+    "year" : "1948",	
+    "review": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+    "poster": "https://i.pinimg.com/236x/3f/3d/b4/3f3db4c7550066aab2d32a2309ca1d14.jpg"
+  },
+{
+    "name": "Singin' in the Rain",
+    "director": "Stanley Donen, Gene Kelly",
+    "genre": "Comedy, Musical, Romance",
+    "country": "USA",
+    "year" : "1952",	
+    "review": "A silent film production company and cast make a difficult transition to sound.",
+    "poster": "https://i.pinimg.com/236x/5b/c0/78/5bc078b0ecc96fd3963fd8a44a39fdc1.jpg"
+  },
+{
+    "name": "Scarface",
+    "director": "Brian De Palma",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1983",	
+    "review": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "poster": "https://i.pinimg.com/236x/05/86/ab/0586abf0508af38e8e35092fb98ec5e6.jpg"
+  },
+{
+    "name": "Taxi Driver",
+    "director": "Martin Scorsese",
+    "genre": "Crime, Drama ",
+    "country": "USA",
+    "year" : "1976",	
+    "review": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+    "poster": "https://i.pinimg.com/236x/b5/0a/19/b50a1982d1a7ec8cfa973db90e3f70ed.jpg"
+  },
+{
+    "name": "Amélie",
+    "director": "Jean-Pierre Jeunet",
+    "genre": "Comedy, Romance",
+    "country": "France",
+    "year" : "2001",	
+    "review": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "poster": "https://i.pinimg.com/236x/e7/c0/d3/e7c0d35918625e5a49f8758b64b64601.jpg"
+  },
+{
+    "name": "Metropolis",
+    "director": "Fritz Lang",
+    "genre": "Drama, Sci-Fi ",
+    "country": "USA",
+    "year" : "1927",	
+    "review": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+    "poster": "https://i.pinimg.com/236x/f6/57/c4/f657c415f89a66738dff2496cf51fe33.jpg"
+  },
+{
+    "name": "Jodaeiye Nader az Simin",
+    "director": "Asghar Farhadi",
+    "genre": "Drama",
+    "country": "Iran",
+    "year" : "2011",	
+    "review": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "poster": "https://i.pinimg.com/236x/70/98/9b/70989b98a3a4d1e26eb7de39b4cc0c9b.jpg"
+  },
+{
+    "name": "Incendies",
+    "director": "Denis Villeneuve",
+    "genre": "Drama, Mystery, War ",
+    "country": "Canada | France",
+    "year" : "2010",	
+    "review": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "poster": "https://i.pinimg.com/236x/77/29/e3/7729e39bbf68f8903f3207948ab43491.jpg"
+  },
+{
+    "name": "L.A. Confidential",
+    "director": "Curtis Hanson",
+    "genre": "Crime, Drama, Mystery ",
+    "country": "USA",
+    "year" : "1997",	
+    "review": "As corruption grows in 1950s Los Angeles, three policemen -- one strait-laced, one brutal, and one sleazy -- investigate a series of murders with their own brand of justice.",
+    "poster": "https://i.pinimg.com/236x/93/00/0e/93000ed267f53ab06d0b7d8b7427cdb0.jpg"
+  },
+{
+    "name": "Heat",
+    "director": "Michael Mann",
+    "genre": "Crime, Drama, Thriller",
+    "country": "USA",
+    "year" : "1995",	
+    "review": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "poster": "https://i.pinimg.com/236x/05/4c/fc/054cfcba2e1929088ef7472909c1fb36.jpg"
+  },
+{
+    "name": "Casino",
+    "director": "Martin Scorsese",
+    "genre": "Crime, Drama ",
+    "country": "USA",
+    "year" : "1995",	
+    "review": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+    "poster": "https://i.pinimg.com/236x/c7/69/ab/c769aba25cee2343e9244a3885944538.jpg"
+  },
+{
+    "name": "Raging Bull",
+    "director": "Martin Scorsese",
+    "genre": "Biography, Drama, Sport ",
+    "country": "USA",
+    "year" : "1980",	
+    "review": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "poster": "https://i.pinimg.com/236x/75/53/23/75532364e3eac5bc972b6e477974d061.jpg"
+  },
+{
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "director": "Guy Ritchie",
+    "genre": "Comedy, Crime",
+    "country": "UK",
+    "year" : "1998",	
+    "review": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+    "poster": "https://i.pinimg.com/236x/61/73/41/617341016e1a6a3cf9064c9111be867b.jpg"
+  },
+{
+    "name": "The Wolf of Wall Street",
+    "director": "Martin Scorsese",
+    "genre": "Biography, Crime, Drama",
+    "country": "USA",
+    "year" : "2013",	
+    "review": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "poster": "https://i.pinimg.com/236x/1f/26/93/1f2693dd9d81b2254f7c86486461a2de.jpg"
+  },
+{
+    "name": "Babam ve Oðlum",
+    "director": "Çaðan Irmak",
+    "genre": "Drama, Family",
+    "country": "Turkey",
+    "year" : "2005",	
+    "review": "The family of a left-wing journalist is torn apart after a military coup in 1980's Turkey.",
+    "poster": "https://i.pinimg.com/236x/95/89/6a/95896ae187015e09bec2ac0f7d3445db.jpg"
+  }
+]
